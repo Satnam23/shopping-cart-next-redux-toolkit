@@ -1,0 +1,24 @@
+.tableseaction{
+    width: 100%;
+    border: 1px solid black;
+    background-color: lightcyan;
+}
+.tabdata{
+    text-align: center;
+    border: 1px solid black;
+    column-gap: 20px;
+}
+.totalamount{
+float: right;
+text-align: center;
+justify-content: center;
+}
+.heading{
+    text-align: center;
+}
+.removebtn{
+    background-color: orange;
+    color: white;
+    cursor: pointer;
+}
+

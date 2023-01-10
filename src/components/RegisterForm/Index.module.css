@@ -1,0 +1,40 @@
+.registerform {
+    width: 50%;
+    background-color: rgb(156, 231, 206);
+    padding: 30px;
+    margin: 0px;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-radius: 25px;
+}
+
+.inputfield {
+    width: 100%;
+    padding: 5px;
+    margin: 10px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+.submit{
+    text-align: center;
+}
+.submit input {
+    background-color: green;
+    font-size: 14px;
+    padding: 4px;
+    border-radius: 10px;
+}
+
+.requiredpara {
+    font-size: 13px;
+    color: red;
+}
+
+.formheading {
+    text-align: center;
+    padding-bottom: 20px;
+}

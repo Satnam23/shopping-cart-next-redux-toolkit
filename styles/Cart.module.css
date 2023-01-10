@@ -1,0 +1,33 @@
+.cartWrapper{
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    
+}
+.cartCard{
+    border: 1px solid black;
+    width: 40%;
+    display:block;
+    padding: 30px;
+    margin: 30px;
+}
+.btn {
+    border: none;
+    outline: none;
+    background: red;
+    padding: 5px 10px;
+    color: #fff;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn:hover {
+    background: orange;
+}
+.btns{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}

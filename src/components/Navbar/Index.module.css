@@ -1,0 +1,19 @@
+.navitems{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    background-color: lightcyan;
+}
+.navlist{
+    display: flex;
+}
+.navlink{
+    text-decoration: none;
+    list-style: none;
+    padding: 0px 15px 0px 15px;
+}
+.cartcount {
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-left: 20px;
+}
